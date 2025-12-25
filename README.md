@@ -2,12 +2,12 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:667eea,100:764ba2&section=header" alt=""/>
 </div>
 
-<br>
-
 <div align=center>
-    <img src="assets/images/logo-dark.webp" alt="iCall" width="200" height="200">
+    <img src="assets/images/logo-dark.png" alt="iCall" width="200" height="200">
 </div>
 
+<br>
+<br>
 <br>
 
 <div align="center">
