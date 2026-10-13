@@ -2,8 +2,6 @@
 
 <img src="assets/images/logo-dark.png" alt="iCall logo" width="160" height="160">
 
-# iCall
-
 **Android app for mobile shop owners that sends credit and cash transfers through automated USSD codes and sells game top-ups from a prepaid wallet.** The shop owner enters the customer's phone number and the amount, and iCall identifies the carrier, uses the matching SIM card, runs the USSD request and records the result, so nobody has to memorize or type USSD codes. The same app sells in-game packages for mobile games, paid from a games wallet funded through Syriatel Cash or MTN Cash. The interface is in Arabic, laid out right to left, with light and dark themes.
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
@@ -110,42 +108,29 @@ icall-mobile/
 
 ## Screenshots
 
-### Light theme
-
-Onboarding
-
 <p align="center">
   <img src="assets/screenshots/2.1.webp" width="19%" alt="Welcome">
   <img src="assets/screenshots/3.1.webp" width="19%" alt="Bills and game top-ups">
   <img src="assets/screenshots/4.1.webp" width="19%" alt="Wallet and operations">
-</p>
-
-Sign-in, activation and permissions
-
-<p align="center">
   <img src="assets/screenshots/5.1.webp" width="19%" alt="Phone number sign-in">
   <img src="assets/screenshots/6.1.webp" width="19%" alt="WhatsApp verification code">
+</p>
+
+<p align="center">
   <img src="assets/screenshots/7.1.webp" width="19%" alt="Account activation">
   <img src="assets/screenshots/8.1.webp" width="19%" alt="Account pending approval">
   <img src="assets/screenshots/9.1.webp" width="19%" alt="Permissions setup">
-</p>
-
-Transfers, game top-ups and wallet
-
-<p align="center">
   <img src="assets/screenshots/10.1.webp" width="19%" alt="Balance transfer">
   <img src="assets/screenshots/11.1.webp" width="19%" alt="Transfer records">
+</p>
+
+<p align="center">
   <img src="assets/screenshots/12.1.webp" width="19%" alt="Game catalog">
   <img src="assets/screenshots/13.1.webp" width="19%" alt="Game packages">
   <img src="assets/screenshots/14.1.webp" width="19%" alt="Top-up confirmation">
-</p>
-
-<p align="center">
   <img src="assets/screenshots/15.1.webp" width="19%" alt="Games wallet">
   <img src="assets/screenshots/16.1.webp" width="19%" alt="Operation history">
 </p>
-
-Settings and support
 
 <p align="center">
   <img src="assets/screenshots/17.1.webp" width="19%" alt="Settings">
@@ -154,36 +139,28 @@ Settings and support
   <img src="assets/screenshots/1.1.webp" width="19%" alt="Unsupported Android version">
 </p>
 
-### Dark theme
-
-<details>
-<summary>Show the dark theme screens</summary>
-
 <br>
 
 <p align="center">
   <img src="assets/screenshots/2.2.webp" width="19%" alt="Welcome">
   <img src="assets/screenshots/3.2.webp" width="19%" alt="Bills and game top-ups">
   <img src="assets/screenshots/4.2.webp" width="19%" alt="Wallet and operations">
+  <img src="assets/screenshots/5.2.webp" width="19%" alt="Phone number sign-in">
+  <img src="assets/screenshots/6.2.webp" width="19%" alt="WhatsApp verification code">
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/5.2.webp" width="19%" alt="Phone number sign-in">
-  <img src="assets/screenshots/6.2.webp" width="19%" alt="WhatsApp verification code">
   <img src="assets/screenshots/7.2.webp" width="19%" alt="Account activation">
   <img src="assets/screenshots/8.2.webp" width="19%" alt="Account pending approval">
   <img src="assets/screenshots/9.2.webp" width="19%" alt="Permissions setup">
+  <img src="assets/screenshots/10.2.webp" width="19%" alt="Balance transfer">
+  <img src="assets/screenshots/11.2.webp" width="19%" alt="Transfer records">
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/10.2.webp" width="19%" alt="Balance transfer">
-  <img src="assets/screenshots/11.2.webp" width="19%" alt="Transfer records">
   <img src="assets/screenshots/12.2.webp" width="19%" alt="Game catalog">
   <img src="assets/screenshots/13.2.webp" width="19%" alt="Game packages">
   <img src="assets/screenshots/14.2.webp" width="19%" alt="Top-up confirmation">
-</p>
-
-<p align="center">
   <img src="assets/screenshots/15.2.webp" width="19%" alt="Games wallet">
   <img src="assets/screenshots/16.2.webp" width="19%" alt="Operation history">
 </p>
@@ -194,8 +171,6 @@ Settings and support
   <img src="assets/screenshots/19.2.webp" width="19%" alt="Report a problem">
   <img src="assets/screenshots/1.2.webp" width="19%" alt="Unsupported Android version">
 </p>
-
-</details>
 
 ## License
 
